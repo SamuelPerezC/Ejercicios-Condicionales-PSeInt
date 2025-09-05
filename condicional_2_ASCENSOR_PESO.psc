@@ -1,9 +1,13 @@
-Algoritmo condicional_2
+Algoritmo condicional_2_ASCENSOR_PESO
+//DECLARAR VARIABLES
 	Definir peso_min,peso_max,piso_max, piso_min, peso, piso Como Entero
+//ASIGNAR VALORES A VARIABLES
 	piso_min <- 1
 	piso_max <- 10
 	peso_min<- 20
 	peso_max<-60
+
+//PROCESAR DATOS E IMPRIMIR MENSAJE EN CONDICIONAL
 	
 	
 	Repetir
@@ -29,3 +33,4 @@ Algoritmo condicional_2
 	Hasta Que piso>=piso_min Y piso<=piso_max 
 	
 FinAlgoritmo
+
