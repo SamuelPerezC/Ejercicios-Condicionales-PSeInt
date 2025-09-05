@@ -1,8 +1,10 @@
-Algoritmo condicional_2
+Algoritmo condicional_3_ASCENSOR_TEMPERATURA_AMBIENTE
+//DEFINIR LAS VARIABLES
 	Definir temp_min,temp_max,sensor como Entero
+//DECLARAR LAS VARIABLES
 	temp_min<- 18
 	temp_max<-28
-	
+//PROCESAR DATOS E IMPRIMIR DATOS DENTRO DE CONDICIONAL	
 	
 	Repetir
 	 
@@ -20,3 +22,4 @@ Algoritmo condicional_2
 	Hasta Que sensor>=temp_min Y sensor<=temp_max 
 	
 FinAlgoritmo
+
