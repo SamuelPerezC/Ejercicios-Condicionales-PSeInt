@@ -1,8 +1,10 @@
-Algoritmo condicionales_4
+Algoritmo condicionales_4_ASCENSOR_UMBRAL_ALERTA
+//DEFINIR LAS VARIABLES
 	Definir temp_min,sensor, umbral_alerta como Entero
+//DECLARAR VALORES A VARIABLES
 	temp_min<- 18
 	umbral_alerta <-55
-	
+//PROCESAR DATOS E IMPRIMIR MENSAJE DENTRO DE CONDICIONAL	
 	
 	Repetir
 	 
@@ -20,3 +22,4 @@ Algoritmo condicionales_4
 	Hasta Que sensor>=temp_min Y sensor<=umbral_alerta 
 	
 FinAlgoritmo
+
